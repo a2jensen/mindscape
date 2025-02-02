@@ -1,3 +1,8 @@
+Developer Setup:
+```bash
+npm install
+npx vite
+```
 How To Run
 
 ```bash

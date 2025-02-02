@@ -34,8 +34,8 @@ scene.add( cube );
 camera.position.z = 60;
 
 function animate() {
-    cube.rotation.x += 0.001;
-    cube.rotation.y += 0.001;
+    cube.rotation.x += 0.020;
+    cube.rotation.y += 0.020;
 	renderer.render( scene, camera );
 }
 
